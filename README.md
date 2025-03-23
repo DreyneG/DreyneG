@@ -13,3 +13,5 @@ My abilitys and languages:
  -Database(postgreesql)
  -Automation and arduino
 I'm searching for freelancer job's and little projects
+
+I speak english and Brazilian portuguese
