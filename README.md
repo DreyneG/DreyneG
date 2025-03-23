@@ -15,3 +15,5 @@ My abilitys and languages:
 I'm searching for freelancer job's and little projects
 
 I speak english and Brazilian portuguese
+
+![DreyneG´s GitHub stats](https://github-readme-stats.vercel.app/api?username=DreyneG&show_icons=true&theme=radical)
